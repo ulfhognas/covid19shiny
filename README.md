@@ -1,4 +1,3 @@
 # covid-19, Seven-day Moving Averages
-Data is drawn from a data repository by Johns Hopkins CSSE (University Center for Systems Science and Engineering):
-
+The data are drawn from a repository maintained by CSSE at Johns Hopkins University:
 https://github.com/CSSEGISandData/COVID-19
